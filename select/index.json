@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Internet Mode",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T10:12:27.833317Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Internet Mode",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Internet_Mode_ピーナッツくん.txt"
+    }
+  ]
+}
